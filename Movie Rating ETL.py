@@ -59,7 +59,7 @@ movie_df.write.format("delta").mode("overwrite").option("mergeSchema", "true").s
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC Bronze Layer
+# MAGIC Gold Layer
 
 # COMMAND ----------
 
